@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergiodata32
 - 👀 I’m interested in Data Science, Data Analytics, Python e IA.
-- 🌱 I’m currently learning Python, Data Science, Power BI and tools that can help in my career!
+- 🌱 I’m currently learning Python, Data Science, Power BI, and tools that can help in my career!
 
 
 <!---
